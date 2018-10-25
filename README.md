@@ -41,22 +41,22 @@ You can also use device that are Arduino base and changed the code. This can be 
 
 ## Presentations
 
-RMLL/LSM 2015 - Beauvais - Open hardware for ”physical” password attacks - https://2015.rmll.info/materiel-libre-pour-attaques-physiques-sur-des-mots-de-passe?lang=en (Slides and Video)
-(FR) GreHack 2015 Rump - Grenoble - (Open) Hardware for "physical" password attacks
-(FR) StHack 2016 - Bordeaux - (Open) Hardware for "physical" password attacks
-(FR) BeeRump 2016 - Paris - - https://www.rump.beer/2016/slides/Teensy_-_Introduire_une_porte_derobe_dans_un_peripherique_USB.pdf (Slides)
-(FR) SSTIC 2016 - Rennes - Déverrouillage d'Android en simulant un clavier/souris - https://www.sstic.org/2016/presentation/unlock_android/ (Slides, paper, video)
-RMLLSec 2016 Rump - Paris -  Arduin-no pown Android - https://sec2016.rmll.info/files/20160705-09-rump-1-Cervoise-Arduino-and-Android.pdf (slides) - https://rmll.ubicast.tv/videos/rump-session_/ (video)
+- RMLL/LSM 2015 - Beauvais - Open hardware for ”physical” password attacks - https://2015.rmll.info/materiel-libre-pour-attaques-physiques-sur-des-mots-de-passe?lang=en (Slides and Video)
+- (FR) GreHack 2015 Rump - Grenoble - (Open) Hardware for "physical" password attacks
+- (FR) StHack 2016 - Bordeaux - (Open) Hardware for "physical" password attacks
+- (FR) BeeRump 2016 - Paris - - https://www.rump.beer/2016/slides/Teensy_-_Introduire_une_porte_derobe_dans_un_peripherique_USB.pdf (Slides)
+- (FR) SSTIC 2016 - Rennes - Déverrouillage d'Android en simulant un clavier/souris - https://www.sstic.org/2016/presentation/unlock_android/ (Slides, paper, video)
+- RMLLSec 2016 Rump - Paris -  Arduin-no pown Android - https://sec2016.rmll.info/files/20160705-09-rump-1-Cervoise-Arduino-and-Android.pdf (slides) - https://rmll.ubicast.tv/videos/rump-session_/ (video)
 
 ## Projects of mine
 
-(FR) Cheat on Facebook game: https://github.com/cervoise/blog/blob/master/game/cheat-facebook-games.md
-Bypass CIRCLean (fixed on 30 Oct 2015): https://github.com/cervoise/so-i-became-a-keyboard/blob/master/payloads/CIRCLean-bypass.ino
-Make autorun great again: https://github.com/cervoise/so-i-became-a-keyboard/tree/master/payloads/make-autorun-great-again
+- (FR) Cheat on Facebook game: https://github.com/cervoise/blog/blob/master/game/cheat-facebook-games.md
+- Bypass CIRCLean (fixed on 30 Oct 2015): https://github.com/cervoise/so-i-became-a-keyboard/blob/master/payloads/CIRCLean-bypass.ino
+- Make autorun great again: https://github.com/cervoise/so-i-became-a-keyboard/tree/master/payloads/make-autorun-great-again
 
 ## Other Projects
 
-Teensy scripts: https://github.com/samratashok/Kautilya 
-Add feedback to Teensy: https://github.com/offensive-security/hid-backdoor-peensy
-Convert Rubber Ducky to Arduino: https://github.com/whid-injector/Dckuino.js 
-Raspberry Pi Zero Framework: https://dantheiotman.com/2017/09/15/p4wnp1-the-pi-zero-based-usb-attack-platform/ 
+- Teensy scripts: https://github.com/samratashok/Kautilya 
+- Add feedback to Teensy: https://github.com/offensive-security/hid-backdoor-peensy
+- Convert Rubber Ducky to Arduino: https://github.com/whid-injector/Dckuino.js 
+- Raspberry Pi Zero Framework: https://dantheiotman.com/2017/09/15/p4wnp1-the-pi-zero-based-usb-attack-platform/ 
