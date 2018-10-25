@@ -51,6 +51,7 @@ You can also use device that are Arduino base and changed the code. This can be 
 ## Projects of mine
 
 - (FR) Cheat on Facebook game: https://github.com/cervoise/blog/blob/master/game/cheat-facebook-games.md
+- Hardware-Bruteforce-Project/Hardware-Bruteforce-Framework-2 : https://github.com/cervoise/Hardware-Bruteforce-Project & https://github.com/cervoise/Hardware-Bruteforce-Framework-2
 - Bypass CIRCLean (fixed on 30 Oct 2015): https://github.com/cervoise/so-i-became-a-keyboard/blob/master/payloads/CIRCLean-bypass.ino
 - Make autorun great again: https://github.com/cervoise/so-i-became-a-keyboard/tree/master/payloads/make-autorun-great-again
 
