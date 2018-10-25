@@ -57,6 +57,7 @@ You can also use device that are Arduino base and changed the code. This can be 
 
 ## Other Projects
 
+- Hardware protection against HID injection: https://www.sstic.org/2013/presentation/Attaques_applicatives_via_peripheriques_USB_modifies_infection_virale_et_fuites_d_informations/
 - Teensy scripts: https://github.com/samratashok/Kautilya 
 - Add feedback to Teensy: https://github.com/offensive-security/hid-backdoor-peensy
 - Convert Rubber Ducky to Arduino: https://github.com/whid-injector/Dckuino.js 
