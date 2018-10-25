@@ -47,6 +47,7 @@ You can also use device that are Arduino base and changed the code. This can be 
 - (FR) BeeRump 2016 - Paris - - https://www.rump.beer/2016/slides/Teensy_-_Introduire_une_porte_derobe_dans_un_peripherique_USB.pdf (Slides)
 - (FR) SSTIC 2016 - Rennes - Déverrouillage d'Android en simulant un clavier/souris - https://www.sstic.org/2016/presentation/unlock_android/ (Slides, paper, video)
 - RMLLSec 2016 Rump - Paris -  Arduin-no pown Android - https://sec2016.rmll.info/files/20160705-09-rump-1-Cervoise-Arduino-and-Android.pdf (slides) - https://rmll.ubicast.tv/videos/rump-session_/ (video)
+- PassTheSlat 2018 - Lille - Open Hardware for (software) offensive security - https://2018.pass-the-salt.org/files/talks/27-open-hw-for-offensive-security.pdf (slides) - https://passthesalt.ubicast.tv/videos/open-hardware-for-software-offensive-security/ (video)
 
 ## Projects of mine
 
