@@ -7,10 +7,10 @@ In order to help the user to open the malicious folder, autorun will be emulated
 
 # Requirements
 
-Teensy 2 – 16$ - https://www.pjrc.com/store/teensy.html 
-Micro SD support – 8$ - https://www.pjrc.com/store/sd_adaptor.html 
-3.3V Regulator – 1$ - https://www.pjrc.com/store/mcp1825.html 
-SD Card
+- Teensy 2 – 16$ - https://www.pjrc.com/store/teensy.html 
+- Micro SD support – 8$ - https://www.pjrc.com/store/sd_adaptor.html 
+- 3.3V Regulator – 1$ - https://www.pjrc.com/store/mcp1825.html 
+- SD Card
 
 # Setup
 
