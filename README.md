@@ -8,6 +8,30 @@ Because you can!
 
 This can be used to inject payload on an unlock computer or to cheat on some video game.
 
+## Main issues
+
+Main issues are:
+
+- the lack of feedback (even if there is some way to have feedback).
+- keyboard layout used by the target.
+- the speed used. 
+
+### About keyboard layout
+
+When you want to inject a key you have to send its position on the keyboard. This will be different on a QWERTY and AZERTY keyboard. Keyboard for Apple is different than a "normal" keyboard.
+
+### The speed
+
+Your payload may work on your test computer but failed because your target is slower. For example, for creating a payload on windows:
+- Windows+R
+- type notepad
+- Press enter
+- Type you payload
+- Save it
+- Run it
+
+If the computer is to slow to open Notepad between the time you press enter et the time you start to write your payload, you'll have a corrupted payload and this will not work.
+
 ## Hardware
 
 Some Arduino can emulates keyboard:
@@ -17,7 +41,7 @@ Some Arduino can emulates keyboard:
 
 Note that a version of the Arduino Leonardo exists with a Ethernet plug but the product is retired: https://store.arduino.cc/arduino-leonardo-eth.
 
-Alternatives to Arduino are able to switch the keyboard layout exists: Teensy () or Raspberry Pi Zero (https://www.raspberrypi.org/products/raspberry-pi-zero/ & https://www.raspberrypi.org/products/raspberry-pi-zero-w/) or equivalent (like some Orange Pi (http://www.orangepi.org/)).
+Alternatives to Arduino are able to switch the keyboard layout exists: Teensy (https://www.pjrc.com/teensy/) or Raspberry Pi Zero (https://www.raspberrypi.org/products/raspberry-pi-zero/ & https://www.raspberrypi.org/products/raspberry-pi-zero-w/) or equivalent (like some Orange Pi (http://www.orangepi.org/)).
 
 At last, some devices are available in a fake USB Stick branding like Ruber Duckey (https://shop.hak5.org/products/usb-rubber-ducky-deluxe) and WHID (https://github.com/whid-injector/WHID).
 
@@ -37,7 +61,7 @@ Note that if you're using a wireless device, hiding a Teensy or equivalent into 
 
 I have done presentation about this at BeeRump 2016 and PassTheSalt 2018. See links below.
 
-You can also use device that are Arduino base and changed the code. This can be done with a GameBuino (https://gamebuino.com/).
+[IDEA] You can also use device that are Arduino base and changed the code. This can be done with a GameBuino (https://gamebuino.com/).
 
 ## Presentations
 
@@ -63,3 +87,8 @@ You can also use device that are Arduino base and changed the code. This can be 
 - Add feedback to Teensy: https://github.com/offensive-security/hid-backdoor-peensy
 - Convert Rubber Ducky to Arduino: https://github.com/whid-injector/Dckuino.js 
 - Raspberry Pi Zero Framework: https://dantheiotman.com/2017/09/15/p4wnp1-the-pi-zero-based-usb-attack-platform/ 
+
+## IDEA
+
+- Change GameBuino sketch in order to be able to inject keyboard while charging.
+- Use Tempest in order to get some feedback of the injections.
