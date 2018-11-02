@@ -57,6 +57,8 @@ Hiding fake HID device into a normal USB device is a way to attack. Detection of
 
 Note that if you're using a wireless device, hiding a Teensy or equivalent into you device will be pretty hard. On the other hand, you shall trust the wireless communication: http://travisgoodspeed.blogspot.com/2011/02/promiscuity-is-nrf24l01s-duty.html
 
+It is possible to filter USB for specific ID (MISC n°50 - Juillet/Août 2010 - Créer un pare-feu pour contrôler l'accès aux clés USB (FR)), this can be bypass if one valid ID is known by the attacker (https://forum.pjrc.com/threads/23523-Change-device-name).
+
 ## How to hide
 
 I have done presentation about this at BeeRump 2016 and PassTheSalt 2018. See links below.
