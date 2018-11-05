@@ -1,7 +1,6 @@
 //Original code from: https://gamebuino.com/creations/hello-world
 
 #include <Gamebuino-Meta.h>
-
 #include "Keyboard.h"
 
 void setup() {
