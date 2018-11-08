@@ -41,7 +41,10 @@ Some Arduino can emulates keyboard:
 
 Note that a version of the Arduino Leonardo exists with a Ethernet plug but the product is retired: https://store.arduino.cc/arduino-leonardo-eth.
 
-Alternatives to Arduino are able to switch the keyboard layout exists: Teensy (https://www.pjrc.com/teensy/) or Raspberry Pi Zero (https://www.raspberrypi.org/products/raspberry-pi-zero/ & https://www.raspberrypi.org/products/raspberry-pi-zero-w/) or equivalent (like some Orange Pi (http://www.orangepi.org/)).
+Alternatives to Arduino are able to switch the keyboard layout exists: 
+- Teensy (https://www.pjrc.com/teensy/) 
+- Raspberry Pi Zero (https://www.raspberrypi.org/products/raspberry-pi-zero/ & https://www.raspberrypi.org/products/raspberry-pi-zero-w/) or equivalent (like some Orange Pi (http://www.orangepi.org/))
+- Digispark Kickstarter USB Development Board (Project: https://www.gearbest.com/other-accessories/pp_227676.html?lkid=15666791, Being a keyboard: https://hackernoon.com/low-cost-usb-rubber-ducky-pen-test-tool-for-3-using-digispark-and-duck2spark-5d59afc1910).
 
 At last, some devices are available in a fake USB Stick branding like Ruber Duckey (https://shop.hak5.org/products/usb-rubber-ducky-deluxe) and WHID (https://github.com/whid-injector/WHID).
 
