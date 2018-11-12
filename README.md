@@ -34,17 +34,50 @@ If the computer is to slow to open Notepad between the time you press enter et t
 
 ## Hardware
 
-Some Arduino can emulates keyboard:
+
+### Arduinos
+Some Arduino can emulates keyboard. Available boards are
+
 - Arduino Leonardo - https://www.arduino.cc/en/Main/Arduino_BoardLeonardo
+- Arduino ETH (retired) - https://store.arduino.cc/arduino-leonardo-eth
 - Arduino Micro - https://store.arduino.cc/arduino-micro
 - Arduino Yùn - https://www.arduino.cc/en/Guide/ArduinoYun
 
-Note that a version of the Arduino Leonardo exists with a Ethernet plug but the product is retired: https://store.arduino.cc/arduino-leonardo-eth.
+Using these libs:
 
-Alternatives to Arduino are able to switch the keyboard layout exists: 
+- Arduino Keyboard lib: https://www.arduino.cc/reference/en/language/functions/usb/keyboard/
+- Alternative Lib (allowing to change layout on the fly): https://github.com/cervoise/KeyboardWithLayout
+
+### Teensy
+
+Teensy are able to switch the keyboard layout, can be more thant a keyboard and a mouse (SD Storage, Internal disk, MTP device...).
+
 - Teensy (https://www.pjrc.com/teensy/) 
-- Raspberry Pi Zero (https://www.raspberrypi.org/products/raspberry-pi-zero/ & https://www.raspberrypi.org/products/raspberry-pi-zero-w/) or equivalent (like some Orange Pi (http://www.orangepi.org/))
-- Digispark Kickstarter USB Development Board (Project: https://www.gearbest.com/other-accessories/pp_227676.html?lkid=15666791, Being a keyboard: https://hackernoon.com/low-cost-usb-rubber-ducky-pen-test-tool-for-3-using-digispark-and-duck2spark-5d59afc1910).
+
+Using these libs:
+
+- C lib for Teensy 2: https://www.pjrc.com/teensy/usb_keyboard.html
+- Arduino lib: https://www.pjrc.com/teensy/td_keyboard.html
+
+
+### Arduino likes
+
+Some Arduino likes are available, with the Arduino Keyboard lib or other libs.
+
+- Digispark Kickstarter USB Development Board 
+   - Project: https://www.gearbest.com/other-accessories/pp_227676.html?lkid=15666791
+   - Being a keyboard: https://hackernoon.com/low-cost-usb-rubber-ducky-pen-test-tool-for-3-using-digispark-and-duck2spark-5d59afc1910).
+- Adafruit Pro Trinket
+   - Project: https://learn.adafruit.com/pro-trinket-keyboard/overview
+   - Lib: https://learn.adafruit.com/pro-trinket-keyboard/library
+- Adafruit IRKey (discontinued): https://www.adafruit.com/product/1560
+- Adafruit pIRkey (coming soon): https://www.adafruit.com/product/3364
+
+### Fruit Pi
+
+Raspberry Pi Zero (https://www.raspberrypi.org/products/raspberry-pi-zero/ & https://www.raspberrypi.org/products/raspberry-pi-zero-w/) or equivalent (like some Orange Pi (http://www.orangepi.org/))
+
+### Other projects
 
 At last, some devices are available in a fake USB Stick branding like Ruber Duckey (https://shop.hak5.org/products/usb-rubber-ducky-deluxe) and WHID (https://github.com/whid-injector/WHID).
 
