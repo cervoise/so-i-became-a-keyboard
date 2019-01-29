@@ -81,6 +81,8 @@ Raspberry Pi Zero (https://www.raspberrypi.org/products/raspberry-pi-zero/ & htt
 
 At last, some devices are available in a fake USB Stick branding like Ruber Duckey (https://shop.hak5.org/products/usb-rubber-ducky-deluxe) and WHID (https://github.com/whid-injector/WHID).
 
+There is also a way to turn your old Ubertooth into a BLE Keyboard: https://blog.ice9.us/2018/12/uberducky-ble-wireless-usb-rubber-ducky.html.
+
 ## Why Arduinos and related are more efficient
 
 Arduinos are not only keyboards. First, they can be programed. The main usage is to be able to detect when the user press on CAPS LOCK. The scenario is easy, the attacker plug the Arduino/Teensy on the lock computer, press CAPS LOCK. When the user come back in order to unlock is computer, he will CAPS unlock. The Arduino/Teensy just need to waits few seconds before to launch the payload.
