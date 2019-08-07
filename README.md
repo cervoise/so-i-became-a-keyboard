@@ -83,6 +83,15 @@ At last, some devices are available in a fake USB Stick branding like Ruber Duck
 
 There is also a way to turn your old Ubertooth into a BLE Keyboard: https://blog.ice9.us/2018/12/uberducky-ble-wireless-usb-rubber-ducky.html.
 
+## Payloads
+- Teensy: https://github.com/samratashok/Kautilya 
+- USB-Rubber-Ducky: 
+ - https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads
+ - https://ducktoolkit.com/
+
+## Converter
+- Convert Rubber Ducky to Arduino: https://github.com/whid-injector/Dckuino.js 
+- Convert Rubber Ducky to DigiSpark: https://github.com/toxydose/Duckyspark
 ## Why Arduinos and related are more efficient
 
 Arduinos are not only keyboards. First, they can be programed. The main usage is to be able to detect when the user press on CAPS LOCK. The scenario is easy, the attacker plug the Arduino/Teensy on the lock computer, press CAPS LOCK. When the user come back in order to unlock is computer, he will CAPS unlock. The Arduino/Teensy just need to waits few seconds before to launch the payload.
@@ -123,9 +132,7 @@ I have done presentation about this at BeeRump 2016 and PassTheSalt 2018. See li
 ## Other Projects
 
 - Hardware protection against HID injection: https://www.sstic.org/2013/presentation/Attaques_applicatives_via_peripheriques_USB_modifies_infection_virale_et_fuites_d_informations/
-- Teensy scripts: https://github.com/samratashok/Kautilya 
 - Add feedback to Teensy: https://github.com/offensive-security/hid-backdoor-peensy
-- Convert Rubber Ducky to Arduino: https://github.com/whid-injector/Dckuino.js 
 - Raspberry Pi Zero Framework: https://dantheiotman.com/2017/09/15/p4wnp1-the-pi-zero-based-usb-attack-platform/ 
 
 ## IDEA
