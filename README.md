@@ -86,8 +86,8 @@ There is also a way to turn your old Ubertooth into a BLE Keyboard: https://blog
 ## Payloads
 - Teensy: https://github.com/samratashok/Kautilya 
 - USB-Rubber-Ducky: 
- - https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads
- - https://ducktoolkit.com/
+   - https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads
+   - https://ducktoolkit.com/
 
 ## Converter
 - Convert Rubber Ducky to Arduino: https://github.com/whid-injector/Dckuino.js 
