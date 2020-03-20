@@ -6,7 +6,7 @@ This repository contains my work about keyboard emulation, mostly for offensive 
 
 Because you can!
 
-This can be used to inject payload on an unlock computer or to cheat on some video game.
+This can be used to inject payload on an unlock computer or to cheat on video games.
 
 ## Main issues
 
