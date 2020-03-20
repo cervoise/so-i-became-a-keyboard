@@ -88,6 +88,7 @@ There is also a way to turn your old Ubertooth into a BLE Keyboard: https://blog
 - USB-Rubber-Ducky: 
    - https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads
    - https://ducktoolkit.com/
+- Linux Magic Keys: https://en.wikipedia.org/wiki/Magic_SysRq_key (default one are listed here (in French): https://doc.ubuntu-fr.org/touches_magiques)
 
 ## Converter
 - Convert Rubber Ducky to Arduino: https://github.com/whid-injector/Dckuino.js 
@@ -108,7 +109,8 @@ It is possible to filter USB for specific ID (MISC n°50 - Juillet/Août 2010 - 
 
 ## How to hide
 
-I have done presentation about this at BeeRump 2016 and PassTheSalt 2018. See links below.
+I have done presentation about this at BeeRump 2016 and PassTheSalt 2018. See links below. Other works were done:
+ - https://www.davidsopas.com/make-hid-great-again/
 
 [IDEA] You can also use device that are Arduino base and changed the code. This can be done with a GameBuino (https://gamebuino.com/).
 
