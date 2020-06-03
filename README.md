@@ -6,7 +6,11 @@ This repository contains my work about keyboard emulation, mostly for offensive 
 
 Because you can!
 
-This can be used to inject payload on an unlock computer or to cheat on video games.
+This can be used to:
+
+- inject payload on an unlock computer,
+- cheat on video games,
+- "paste" a string into a Citrix/CyberArk/etc. where you cannot paste from the host.
 
 ## Main issues
 
