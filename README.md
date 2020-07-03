@@ -76,6 +76,7 @@ Some Arduino likes are available, with the Arduino Keyboard lib or other libs.
    - Lib: https://learn.adafruit.com/pro-trinket-keyboard/library
 - Adafruit IRKey (discontinued): https://www.adafruit.com/product/1560
 - Adafruit pIRkey (coming soon): https://www.adafruit.com/product/3364
+- Masterkey - USB WiFi Keylogger: https://github.com/justcallmekoko/USBKeylogger (a Wi-Fi keylogger based on Arduino with keystroke injection capabilities)
 
 ### Fruit Pi
 
@@ -83,7 +84,7 @@ Raspberry Pi Zero (https://www.raspberrypi.org/products/raspberry-pi-zero/ & htt
 
 ### Other projects
 
-At last, some devices are available in a fake USB Stick branding like Ruber Duckey (https://shop.hak5.org/products/usb-rubber-ducky-deluxe) and WHID (https://github.com/whid-injector/WHID).
+At last, some devices are available in a fake USB Stick branding like Ruber Duckey (https://shop.hak5.org/products/usb-rubber-ducky-deluxe) and WHID (https://github.com/whid-injector/WHID). As thoose are well known, alternatives to them exist as the Tinyduck (https://www.tindie.com/products/justcallmekoko/tinyduck-usb-rubber-ducky/)
 
 There is also a way to turn your old Ubertooth into a BLE Keyboard: https://blog.ice9.us/2018/12/uberducky-ble-wireless-usb-rubber-ducky.html.
 
