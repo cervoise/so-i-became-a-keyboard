@@ -119,7 +119,9 @@ I have done presentation about this at BeeRump 2016 and PassTheSalt 2018. See li
 
 [IDEA] You can also use device that are Arduino base and changed the code. This can be done with a GameBuino (https://gamebuino.com/).
 
-## Presentations
+## Talks
+
+### Mine
 
 - RMLL/LSM 2015 - Beauvais - Open hardware for ”physical” password attacks - https://2015.rmll.info/materiel-libre-pour-attaques-physiques-sur-des-mots-de-passe?lang=en (Slides and Video)
 - (FR) GreHack 2015 Rump - Grenoble - (Open) Hardware for "physical" password attacks
@@ -129,6 +131,9 @@ I have done presentation about this at BeeRump 2016 and PassTheSalt 2018. See li
 - RMLLSec 2016 Rump - Paris -  Arduin-no pown Android - https://sec2016.rmll.info/files/20160705-09-rump-1-Cervoise-Arduino-and-Android.pdf (slides) - https://rmll.ubicast.tv/videos/rump-session_/ (video)
 - PassTheSlat 2018 - Lille - Open Hardware for (software) offensive security - https://2018.pass-the-salt.org/files/talks/27-open-hw-for-offensive-security.pdf (slides) - https://passthesalt.ubicast.tv/videos/open-hardware-for-software-offensive-security/ (video)
 
+### Others
+ - https://adsecurity.org/?p=362
+ 
 ## Projects of mine
 
 - (FR) Cheat on Facebook game: https://github.com/cervoise/blog/blob/master/game/cheat-facebook-games.md
